@@ -1,0 +1,11 @@
+*.pyc
+*.pyo
+
+
+
+node_modules/
+.DS_Store
+.idea/
+venv/
+
+Pipfile
